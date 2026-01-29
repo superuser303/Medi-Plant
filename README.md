@@ -26,7 +26,7 @@
 
 Try PlantAI101 instantly in your browser:
 
-* [plantai101.streamlit.app](https://plantai101.streamlit.app/)
+* [plantai101.streamlit.app](https://plant-disease-analysis-101.streamlit.app/)
 
 ### 💻 Local Setup
 
@@ -89,7 +89,7 @@ We welcome your contributions! Submit pull requests or open issues to suggest im
 
 ## 📬 Contact
 
-For inquiries or suggestions, please reach out to [darkshadow0023@gmail.com](mailto:darkshadow0023@gmail.com).
+For inquiries or suggestions, please reach out to [darkshadow0023@gmail.com](mailto:shivamsinha00101@gmail.com).
 
 ---
 
