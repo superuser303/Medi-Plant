@@ -89,7 +89,7 @@ We welcome your contributions! Submit pull requests or open issues to suggest im
 
 ## 📬 Contact
 
-For inquiries or suggestions, please reach out to [darkshadow0023@gmail.com](mailto:shivamsinha00101@gmail.com).
+For inquiries or suggestions, please reach out to [shivamsinha00101@gmail.com](mailto:shivamsinha00101@gmail.com).
 
 ---
 
